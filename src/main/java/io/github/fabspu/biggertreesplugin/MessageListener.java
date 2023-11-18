@@ -2,7 +2,6 @@ package io.github.fabspu.biggertreesplugin;
 
 import net.kyori.adventure.text.Component;
 import org.bukkit.event.EventHandler;
-import org.bukkit.event.HandlerList;
 import org.bukkit.event.Listener;
 import org.bukkit.event.player.AsyncPlayerChatEvent;
 
