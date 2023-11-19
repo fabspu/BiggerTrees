@@ -13,6 +13,7 @@ public final class BiggerTreesPlugin extends JavaPlugin{
         // Plugin startup logic
         Bukkit.getPluginManager().registerEvents(new JoinListener(),this);
         Bukkit.getPluginManager().registerEvents(new MessageListener(), this);
+        Bukkit.getPluginManager().registerEvents(new TreeListener(), this);
     }
 
 
